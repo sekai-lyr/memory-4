@@ -1,4 +1,4 @@
-﻿# 馃帎 Sekai Fortune 路 瑙掕壊鎶界涓庝粖鏃ヨ繍鍔?
+# 馃帎 Sekai Fortune 路 瑙掕壊鎶界涓庝粖鏃ヨ繍鍔?
 > **缁熶竴瑙掕壊搴撴娊绛?+ 浼氬憳鏀舵闂幆 MVP**
 > Fortune-drawing MVP with unified character pool & membership payment loop
 
@@ -72,7 +72,7 @@ mvn spring-boot:run
 
 
 <p align="center">
-  <img src="screenshots/demo.gif" alt="Demo" width="720"/>
+  <img src="screenshots/demo.webp" alt="Demo" width="720"/>
 </p>
 ---
 
